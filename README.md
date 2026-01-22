@@ -1,4 +1,4 @@
-# 👋 Hi, I'm a Data Analyst
+# 👋 Introducing Myself
 
 📊 **Aspiring Data Analyst actively seeking entry-level opportunities** where I can apply data analytics skills to solve real-world problems and support data-driven decision-making.
 
