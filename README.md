@@ -15,7 +15,7 @@
 * **Databases & Querying:** SQL
 * **Programming:** Python (NumPy, Pandas, Matplotlib, Seaborn)
 
-## 📈 Core skilld
+## 📈 Core skills
 
 * Data preparation, cleaning, and quality assurance
 * Exploratory Data Analysis (EDA)
